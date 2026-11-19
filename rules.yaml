@@ -1,0 +1,73 @@
+# Solaar shortcuts for the Logitech MX Master 3S.
+---
+- Device: MX Master 3S
+- MouseGesture:
+  - Mouse Gesture Button
+  - Mouse Up
+- KeyPress:
+  - Super_L
+  - w
+---
+- Device: MX Master 3S
+- MouseGesture:
+  - Mouse Gesture Button
+  - Mouse Down
+- KeyPress:
+  - Super_L
+  - d
+---
+- Device: MX Master 3S
+- MouseGesture:
+  - Mouse Gesture Button
+  - Mouse Left
+- KeyPress:
+  - Super_L
+  - Control_L
+  - Right
+---
+- Device: MX Master 3S
+- MouseGesture:
+  - Mouse Gesture Button
+  - Mouse Right
+- KeyPress:
+  - Super_L
+  - Control_L
+  - Left
+---
+- Device: MX Master 3S
+- MouseGesture:
+  - Mouse Gesture Button
+- KeyPress:
+  - Super_L
+---
+- Device: MX Master 3S
+- Feature: REPROG CONTROLS V4
+- Key:
+  - Back Button
+  - pressed
+- KeyPress: XF86_Copy
+---
+- Device: MX Master 3S
+- Feature: REPROG CONTROLS V4
+- Key:
+  - Forward Button
+  - pressed
+- KeyPress: XF86_Paste
+---
+- Device: MX Master 3S
+- Feature: THUMB WHEEL
+- Test:
+  - thumb_wheel_up
+  - 2
+- KeyPress:
+  - Super_L
+  - equal
+---
+- Device: MX Master 3S
+- Feature: THUMB WHEEL
+- Test:
+  - thumb_wheel_down
+  - 2
+- KeyPress:
+  - Super_L
+  - minus
